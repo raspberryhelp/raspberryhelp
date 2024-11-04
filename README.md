@@ -4,4 +4,4 @@ tired
 - java and front end, with a side of python
 - draws too!
 
-![Stats](https://github-readme-stats.vercel.app/api?username=raspberryhelp&show_icons=true&theme=dark)
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=raspberryhelp&repo=raspberryhelp&countColorcountColor&countColor=%237B1E7B"/>

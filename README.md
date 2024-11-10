@@ -16,5 +16,6 @@ tired
 
 ## Completed 📦
 - raspberryhelp.github.io: Personal Website made with (almost) pure HTML and CSS.
+    - Deployed Website [Raspberryhelp.Github.io](https://raspberryhelp.github.io/)
 - CMS: Club management based system that allows users to browse, create and manage clubs.
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other 

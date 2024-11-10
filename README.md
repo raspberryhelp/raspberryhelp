@@ -12,7 +12,7 @@ tired
 
 ## On-going 💻
 - personalwebsite_2: Website made with React and Tailwind
-    - Deployed App: [https://personalwebsite-2.vercel.app/](Walnut Counter)
+    - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)
 
 ## Completed 📦
 - raspberryhelp.github.io: Personal Website made with (almost) pure HTML and CSS.

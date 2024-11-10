@@ -15,7 +15,8 @@ tired
     - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)
 
 ## Completed 📦
-- raspberryhelp.github.io: Personal Website made with (almost) pure HTML and CSS.
-    - Deployed Website [Raspberryhelp.Github.io](https://raspberryhelp.github.io/)
+- raspberryhelp.github.io: Personal Website made with (almost) pure HTML and CSS. There's two versions: The pages one (which is outdated) and the Neocities one.
+    - Deployed Pages Website: [Raspberryhelp.Github.io](https://raspberryhelp.github.io/)
+    - Deployed Neocities Website: [Void Sea](https://redcamel.neocities.org/)
 - CMS: Club management based system that allows users to browse, create and manage clubs.
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other 

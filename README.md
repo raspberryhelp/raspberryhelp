@@ -19,6 +19,5 @@ tired
 - draws too!
 
 # Stats
-![Raspberryhelp's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspberryhelp&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raspberryhelp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=raspberryhelp&repo=raspberryhelp&countColorcountColor&countColor=%237B1E7B"/>

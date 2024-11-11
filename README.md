@@ -22,3 +22,4 @@ tired
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raspberryhelp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=raspberryhelp&repo=raspberryhelp&countColorcountColor&countColor=%237B1E7B"/>
 ![Raspberryhelp's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspberryhelp&show_icons=true&theme=dracula)
+[![help's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspberryhelp)](https://github.com/anuraghazra/github-readme-stats)

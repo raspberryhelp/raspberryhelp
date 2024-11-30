@@ -1,5 +1,3 @@
-# Projects
-
 ## On-going 💻
 - personalwebsite_2: Website made with React and Tailwind
     - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)

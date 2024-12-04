@@ -9,6 +9,7 @@
     - Deployed Neocities Website: [Void Sea](https://redcamel.neocities.org/)
 - CMS: Club management based system that allows users to browse, create and manage clubs.
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other
+- Classif.ai: Team project that classifies music using a CNN model which processes audio as mel-spectrograms.
 
 # About Me 
 tired

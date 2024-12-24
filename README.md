@@ -4,7 +4,7 @@
 - SustainBuild: Fork from Sustainacity, an incomplete project from a hackathon I did with me and my friends.
 
 ## Completed 📦
-- raspberryhelp.github.io: Personal Website made with (almost) pure HTML and CSS. There's two versions: The pages one (which is outdated) and the Neocities one.
+- raspberryhelp.github.io: (Informal) Personal Website made with (almost) pure HTML and CSS. There's two versions: The pages one (which is outdated) and the Neocities one. 
     - Deployed Pages Website: [Raspberryhelp.Github.io](https://raspberryhelp.github.io/)
     - Deployed Neocities Website: [Void Sea](https://redcamel.neocities.org/)
 - CMS: Club management based system that allows users to browse, create and manage clubs.

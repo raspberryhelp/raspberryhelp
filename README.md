@@ -10,6 +10,7 @@
 - CMS: Club management based system that allows users to browse, create and manage clubs.
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other
 - Classif.ai: Team project that classifies music using a CNN model which processes audio as mel-spectrograms. Doing in AIM Fall 2024. Check it out [Here](https://github.com/ly-sona/music-genre-classification)
+- Dream Home - A choose your own adventure: Visual Novel for WEHack for the CBRE Track.
 
 ## ...One day? 🤔
 - SustainBuild: Fork from Sustainacity, an incomplete project from a hackathon I did with me and my friends. Shelved because this requires me to have knowledge that i dont currently have!

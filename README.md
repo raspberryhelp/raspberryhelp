@@ -20,8 +20,8 @@
 # About Me 
 tired
 
-- computer science student at utd
-- java and front end, with a side of python
+- computer science student at utd, interested in data science, graphics, geospatial technologies and potentially quantum computing
+- python and C/C++ with a side of java
 - draws too!
 
 # Stats

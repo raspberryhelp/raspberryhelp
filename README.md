@@ -4,6 +4,7 @@
 
 
 ## Completed 📦
+- K-means Voronoi: This is more or so a research project for my Computational Geometry class, and I was trying to find out whether k-means can help voronoi diagrams better replicate existing political boundaries for fun! mostly an excuse to delve a bit into GIS but also learnt a lot about data processing. 
 - raspberryhelp.github.io: (Informal) Personal Website made with (almost) pure HTML and CSS. There's two versions: The pages one (which is outdated) and the Neocities one. 
     - Deployed Pages Website: [Raspberryhelp.Github.io](https://raspberryhelp.github.io/)
     - Deployed Neocities Website: [Void Sea](https://redcamel.neocities.org/)

@@ -1,6 +1,5 @@
 ## On-going 💻
-- personalwebsite_2: Website made with React and Tailwind
-    - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)
+- My personal Website. Originally I had it hosted on Vercel with React + Tailwind, but I decided to try my hand at just using my own personal domain plus just not using Tailwind. I find that Tailwind doesn't have what I have in mind so I'm planning to make my own components from scratch. Right now it's a wasteland but here's the live [deployment](https://www.raspberryhelp.dev/). 
 
 
 ## Completed 📦
@@ -12,6 +11,8 @@
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other
 - Classif.ai: Team project that classifies music using a CNN model which processes audio as mel-spectrograms. Doing in AIM Fall 2024. Check it out [Here](https://github.com/ly-sona/music-genre-classification)
 - Dream Home - A choose your own adventure: Visual Novel for WEHack for the CBRE Track.
+- - personalwebsite_2: Website made with React and Tailwind. Old website, am no longer using this as my personal website but keeping it up for archive purposes. It's...it's a site alright
+    - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)
 
 ## ...One day? 🤔
 - SustainBuild: Fork from Sustainacity, an incomplete project from a hackathon I did with me and my friends. Shelved because this requires me to have knowledge that i dont currently have!

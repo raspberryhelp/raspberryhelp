@@ -24,7 +24,7 @@ tired
 
 - computer science student at utd, interested in data science, graphics, geospatial technologies and potentially quantum computing
 - python and C/C++ with a side of java
-- draws too!
+- draws too! I never use AI when I draw so if you see any drawn components they were drawn 100% by me ;)
 
 # Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raspberryhelp&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />

@@ -11,7 +11,7 @@
 - CraftingConecxions: Website that allows users of the same major and school to connect with each other
 - Classif.ai: Team project that classifies music using a CNN model which processes audio as mel-spectrograms. Doing in AIM Fall 2024. Check it out [Here](https://github.com/ly-sona/music-genre-classification)
 - Dream Home - A choose your own adventure: Visual Novel for WEHack for the CBRE Track.
-- - personalwebsite_2: Website made with React and Tailwind. Old website, am no longer using this as my personal website but keeping it up for archive purposes. It's...it's a site alright
+- personalwebsite_2: Website made with React and Tailwind. Old website, am no longer using this as my personal website but keeping it up for archive purposes. It's...it's a site alright
     - Deployed App: [Walnut Counter](https://personalwebsite-2.vercel.app/)
 
 ## ...One day? 🤔

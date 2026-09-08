@@ -1,5 +1,5 @@
 ## On-going 💻
-- My personal Website. Originally I had it hosted on Vercel with React + Tailwind, but I decided to try my hand at just using my own personal domain plus just not using Tailwind. I find that Tailwind doesn't have what I have in mind so I'm planning to make my own components from scratch. Right now it's a wasteland but here's the live [deployment](https://www.raspberryhelp.dev/). It still uses vercel but with my custom domain it should look more professional. 
+- My personal Website. Originally I had it hosted on Vercel with React + Tailwind, but I decided to try my hand at just using my own personal domain plus just not using Tailwind. I find that Tailwind doesn't have what I have in mind so I'm planning to make my own components from scratch. Right now it's a wasteland but here's the live [deployment](https://www.raspberryhelp.dev/). It still uses vercel but with my custom domain it should look more professional. I also plan to move this entire page there so it doesn't make my github cluttered
 
 
 ## Completed 📦
